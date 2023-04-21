@@ -1,5 +1,5 @@
 {
-    "name": "urhitech/urhitech-sms-php",
+    "name": "urhitech/usmsgh-api-sdk",
     "description": "PHP SDK for the Urhitech Bulk SMS API",
     "type": "library",
     "license": "MIT",
