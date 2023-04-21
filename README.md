@@ -38,12 +38,12 @@ PHP 5.6.0  and later
 ## Installation
 Via [Composer](http://getcomposer.org/)
 ```
-$ composer require urhitech/urhitech-sms-php --dev-main
+$ composer require usmsgh/usmsgh-api-sdk
 ```
 
 Via Git Bash
 ```
-git clone https://github.com/sefakor20/urhitech-sms-php.git
+git clone git@github.com:urhitech/usmsgh-api-sdk.git
 ```
 
 ## Documentation
