@@ -89,7 +89,6 @@ class Usms
                 $this->send_server_response($endpoint, $api_token, $sender_id, $phone, $message, 'post');
             }
         } else {
-            // print_r($single_phone);exit();
             $this->send_server_response($endpoint, $api_token, $sender_id, $single_phone, $message, 'post');
         }
        
